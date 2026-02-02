@@ -23,6 +23,16 @@ The dataset can be downloaded from the following links:
 
 Ensure that datasets are located in the `filelist` directory. 
 
+#### Dataset Structure:
+```
+--FeatWalk
+    |--filelist
+        |--miniImageNet
+            |--train
+            |--val
+            |--test
+```
+
 ## Preparation Before Running
 Place the pre-trained models in the `checkpoint` directory. The pre-trained models can be obtained through the corresponding baseline methods or accessed from the official [DeepBDC](https://github.com/Fei-Long121/DeepBDC) implementation.
 
