@@ -25,7 +25,7 @@ Ensure that datasets are located in the `filelist` directory.
 
 #### Dataset Structure:
 ```
---FeatWalk
+--MSIFN
     |--filelist
         |--miniImageNet
             |--train
